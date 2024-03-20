@@ -1,1 +1,1 @@
-# Pomodoro
+The Pomodoro Timer App is a productivity tool designed to help users manage their time more effectively using the Pomodoro Technique. This technique involves breaking work into intervals, typically 25 minutes long, separated by short breaks. The app provides a simple and intuitive interface for users to track their work sessions and breaks, helping them stay focused and maintain productivity throughout the day.
